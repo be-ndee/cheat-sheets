@@ -2,4 +2,4 @@
 
 * Mou
 * iTerm
-* Slate
+* Slate (in combination with karabiner and seil)
