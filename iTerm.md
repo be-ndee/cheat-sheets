@@ -2,7 +2,7 @@
 
 | shortcut    | description          |
 | ----------- | -------------------- |
-| Cmd+T       | new tab              |
+| Cmd+T       | add new tab          |
 | Cmd+Shift+] | select next tab      |
 | Cmd+Shift+[ | select previous tab  |
 | Cmd+D       | split vertically     |
