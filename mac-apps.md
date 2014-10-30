@@ -2,8 +2,9 @@
 
 * Mou
 * iTerm
-* Slate
-* tmux in combination with tmuxinator
+* Slate (in combination with karabiner and seil)
+* tmux
+* tmuxinator
 
 ## Some fun
 
