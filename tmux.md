@@ -10,3 +10,14 @@ CTRL+B : starts tmux-input
 * % : vertical-pane-dividing
 * x : kill pane
 * & : kill window
+
+#### Resize panes
+
+```
+: resize-pane -U
+: resize-pane -L
+: resize-pane -R
+: resize-pane -D
+```
+Resizes UP, LEFT, RIGHT and DOWN  
+Optionally add a value (e.g. 20)
