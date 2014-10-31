@@ -2,7 +2,7 @@
 
 CTRL+B : starts tmux-input
 
-### After CTRL+B
+After CTRL+B type the following keys:
 
 * arrows : move around in panes
 * c : new window
@@ -12,6 +12,8 @@ CTRL+B : starts tmux-input
 * & : kill window
 
 #### Resize panes
+
+After CTRL+B type in the following:
 
 ```
 : resize-pane -U
