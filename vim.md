@@ -5,7 +5,7 @@ w, e, b - move within words, FORWARD, FORWARD END, BACKWARD
 :sp <file> - split screen horizontally (file: optionally open file)  
 :vsp <file> - split screen vertically (file: optionally open
 
-## If in splitted-mode (window-mode
+### If in splitted-mode (window-mode)
 
 <CTRL-W> <h, j, k, l> - move around in windows  
 <CTRL-W> -    - Decrease window height  
