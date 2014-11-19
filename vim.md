@@ -7,10 +7,10 @@ w, e, b - move within words, FORWARD, FORWARD END, BACKWARD
 
 ### If in splitted-mode (window-mode)
 
-<CTRL-W> <h, j, k, l> - move around in windows  
-<CTRL-W> -    - Decrease window height  
-<CTRL-W> +    - Increase window height  
-<CTRL-W> _ INT   - Set height to INT
-<CTRL-W> <    - Decrease window width  
-<CTRL-W> >    - Increase window width  
-<CTRL-W> | INT   - Set width to INT
+CTRL+W &lt;h, j, k, l&gt; - move around in windows  
+CTRL+W -    - Decrease window height  
+CTRL+W +    - Increase window height  
+CTRL+W _ INT   - Set height to INT
+CTRL+W &lt;    - Decrease window width  
+CTRL+W &gt;    - Increase window width  
+CTRL+W | INT   - Set width to INT
